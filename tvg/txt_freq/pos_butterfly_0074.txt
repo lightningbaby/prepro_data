@@ -1,0 +1,11 @@
+sunflow	2
+pow	1
+backyard	1
+liv	1
+magazin	1
+sunflower-with-butterflysunflower-with-butterfly	1
+sunflower-with-butterfly	2
+butterf	1
+rit	1
+straatmann	1
+washington	1

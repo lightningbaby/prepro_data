@@ -1,0 +1,12 @@
+the	3
+harp	3
+photo	2
+tim	2
+trip	2
+pbas	1
+com	1
+gallery	1
+edmonton	1
+calg	1
+prevy	1
+next	1

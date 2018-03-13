@@ -1,0 +1,14 @@
+anim	1
+kingdom	1
+insect	1
+and	1
+arachnid	1
+butterf	5
+morpholog	3
+vis	1
+dict	1
+onlin	1
+nbsp	2
+imagemorpholog	1
+prevy	1
+next	1

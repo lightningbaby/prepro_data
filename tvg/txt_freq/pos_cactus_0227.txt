@@ -1,0 +1,13 @@
+silk	9
+cact	7
+plant	5
+tre	5
+art	4
+flow	3
+barrel	1
+saguaro	1
+beavertail	1
+column	1
+prick	1
+pear	1
+fing	1

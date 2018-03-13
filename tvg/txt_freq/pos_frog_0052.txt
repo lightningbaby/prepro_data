@@ -1,0 +1,11 @@
+air	5
+beach	6
+tre	6
+frog	6
+ran	6
+arbóre	5
+photo	3
+host	1
+travelblog	1
+org	1
+arbóreaair	1

@@ -1,0 +1,16 @@
+brad	2
+burt	2
+mag	4
+shop	3
+produc	1
+trick	3
+book	2
+video	2
+dvds	1
+card	1
+coin	1
+ful	1
+serv	1
+sel	1
+best	1
+dvd	1

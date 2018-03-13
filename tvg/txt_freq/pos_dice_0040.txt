@@ -1,0 +1,14 @@
+dic	5
+photograph	6
+pict	2
+aly	1
+ektachrom	1
+spec	2
+effect	2
+entertain	1
+industry	1
+studio	2
+return	1
+pagestudio	1
+phillip	1
+coh	1

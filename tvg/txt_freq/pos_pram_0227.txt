@@ -1,0 +1,14 @@
+silv	5
+cross	5
+coast	5
+pram	4
+system	3
+pushchair	1
+stroller	1
+cheap	1
+complet	1
+access	1
+supply	1
+comp	1
+pric	1
+glant	1

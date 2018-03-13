@@ -1,0 +1,17 @@
+dougla	3
+jon	4
+photograph	5
+edinburgh	2
+freel	2
+stil	3
+lif	3
+bas	1
+spec	1
+peopl	2
+food	2
+pramdougla	1
+loc	1
+nat	1
+contact	1
+prevy	1
+next	1

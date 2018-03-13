@@ -1,0 +1,17 @@
+eurek	2
+found	2
+vint	3
+costum	3
+jewelry	5
+unsign	2
+ear	1
+sign	2
+ant	1
+collect	2
+deco	1
+textil	1
+miny	1
+button	1
+fan	1
+noritak	1
+sal	1

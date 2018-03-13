@@ -1,0 +1,14 @@
+wind	1
+cav	1
+nat	2
+park	2
+cact	7
+pincush	4
+serv	1
+coryphanth	3
+viviparapincush	1
+vivipar	2
+nps	1
+photo	1
+jim	1
+pisarowicz	1

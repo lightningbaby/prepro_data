@@ -1,0 +1,14 @@
+jbs	2
+cactus	3
+and	2
+succ	3
+jard	2
+jardí	2
+jardin	1
+bot	2
+botàn	2
+sol	2
+sóller	3
+mallorc	2
+balear	2
+isla	1

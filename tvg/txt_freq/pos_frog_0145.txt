@@ -1,0 +1,13 @@
+trekn	2
+tig	4
+leg	5
+monkey	5
+frog	4
+photo	5
+travel	2
+surinam	1
+brokopondo	1
+thi	1
+gallery	1
+titl	1
+frogtig	1

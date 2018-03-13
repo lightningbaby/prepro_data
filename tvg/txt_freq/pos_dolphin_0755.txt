@@ -1,0 +1,12 @@
+dolphin	2
+breach	2
+char	2
+phillip	2
+photo	3
+galaxy	2
+photogalaxy	2
+photograph	4
+gallery	2
+commun	2
+com	1
+serv	1

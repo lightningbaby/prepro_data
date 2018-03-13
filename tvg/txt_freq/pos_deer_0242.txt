@@ -1,0 +1,17 @@
+mul	6
+deer	6
+doe	4
+yellowston	5
+ecolog	3
+institut	4
+muse	2
+nat	2
+sci	2
+2003	2
+photo	3
+tak	1
+mik	2
+dun	2
+doe2003	1
+highlight	1
+copyright	1

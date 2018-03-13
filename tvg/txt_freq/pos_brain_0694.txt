@@ -1,0 +1,11 @@
+fil	4
+brain	4
+mri	4
+nevit	4
+svg	4
+wikimed	1
+common	1
+gfdl	10
+ast	1
+be-tarask	1
+bpy	1

@@ -1,0 +1,17 @@
+photo	8
+monkey	9
+mia	9
+dolphin	6
+resort	7
+tripadv	2
+hotel	1
+pict	4
+photograph	2
+foto	2
+check	1
+memb	1
+candid	1
+western	1
+austral	1
+friend	1
+dolphinm	1

@@ -1,0 +1,11 @@
+colorado	6
+dic	8
+review	3
+download	3
+gam	3
+window	2
+10000	2
+addict	1
+play	2
+simili	1
+000	1

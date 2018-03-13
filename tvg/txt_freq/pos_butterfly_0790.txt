@@ -1,0 +1,16 @@
+fre	8
+butterf	9
+clipart	8
+graph	4
+anim	7
+gif	4
+photo	3
+pict	4
+but	1
+net	1
+flow	1
+apollo	1
+black	1
+vein	1
+whit	1
+bug	1

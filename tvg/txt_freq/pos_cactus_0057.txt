@@ -1,0 +1,12 @@
+cact	2
+mau	4
+polit	2
+zero	1
+progress	1
+anti-war	1
+glob	1
+warm	1
+cleantech	1
+mauiy	1
+shar	1
+com	1

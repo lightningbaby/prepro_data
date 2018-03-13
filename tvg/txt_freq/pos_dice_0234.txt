@@ -1,0 +1,16 @@
+two	7
+red	7
+dic	6
+clip	4
+art	4
+royal	1
+fre	3
+publ	1
+domain	1
+onlin	1
+recr	3
+gam	6
+dicerecr	1
+clipart	1
+log	1
+tag	2

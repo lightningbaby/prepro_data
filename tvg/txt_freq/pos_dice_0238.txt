@@ -1,0 +1,15 @@
+gallery	3
+opt	4
+illud	5
+imposs	2
+object	1
+buy	1
+reproduc	1
+right	1
+publ	1
+card	1
+post	1
+print	1
+vis	1
+onlin	1
+dic	1

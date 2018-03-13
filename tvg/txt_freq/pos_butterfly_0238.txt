@@ -1,0 +1,14 @@
+honeymoon	2
+butterf	5
+queen	3
+prevy	1
+next	1
+back	1
+sanctu	2
+key	1
+west	1
+mary	1
+she	1
+hitchhik	1
+should	1
+permalink	1

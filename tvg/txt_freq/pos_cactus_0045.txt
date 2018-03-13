@@ -1,0 +1,14 @@
+trekear	2
+min	4
+cact	5
+gard	4
+photo	5
+travel	2
+esfah	2
+sony	1
+cybershot	1
+dsc-p92	1
+thi	1
+gallery	1
+titl	1
+gardenmin	1

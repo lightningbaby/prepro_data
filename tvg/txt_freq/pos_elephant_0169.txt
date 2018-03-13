@@ -1,0 +1,12 @@
+eleph	1
+vers	1
+dolphin	1
+which	2
+fast	1
+smart	1
+redfin	3
+develop	1
+blog	1
+direct	1
+real	1
+est	1

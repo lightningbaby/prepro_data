@@ -1,0 +1,11 @@
+trekl	2
+hairy	4
+cact	4
+photo	5
+travel	2
+boliv	1
+paz	2
+thi	1
+gallery	1
+titl	1
+cactushairy	1

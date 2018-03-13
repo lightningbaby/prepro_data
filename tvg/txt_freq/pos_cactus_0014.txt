@@ -1,0 +1,13 @@
+prick	4
+pear	4
+cact	4
+flow	4
+photo	3
+dec	4
+mccullagh	4
+photograph	4
+sahara-desert	1
+sahar	1
+desert	1
+tunis	1
+pict	1

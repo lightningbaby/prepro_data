@@ -1,0 +1,17 @@
+wind	1
+cav	1
+nat	2
+park	2
+amphib	2
+northern	4
+leopard	5
+frog	5
+serv	1
+ran	2
+pipiensnorthern	1
+pipy	2
+nps	1
+photo	1
+tom	1
+bean	1
+lithob	1

@@ -1,0 +1,16 @@
+cact	8
+myth	4
+legend	4
+pres	2
+philadelph	7
+succ	4
+socy	4
+2007	3
+flow	3
+show	3
+gallery	1
+indexprev	1
+next	1
+photo	1
+john	1
+fisch	1

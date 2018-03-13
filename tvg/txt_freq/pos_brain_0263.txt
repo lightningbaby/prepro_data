@@ -1,0 +1,13 @@
+hum	3
+brain	5
+model	2
+cerebr	4
+cerebell	2
+fornix	2
+schema	2
+aqueduc	2
+stem	2
+nerv	1
+system	2
+includ	1
+remov	1

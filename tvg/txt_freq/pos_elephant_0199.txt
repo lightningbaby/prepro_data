@@ -1,0 +1,12 @@
+pattay	4
+eleph	5
+vil	4
+thailand	3
+trekk	2
+don	2
+jungl	2
+the	1
+sanctu	1
+man	1
+phair	1
+chaiyakham	1

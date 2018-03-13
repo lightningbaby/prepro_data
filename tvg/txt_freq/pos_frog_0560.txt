@@ -1,0 +1,15 @@
+frog	4
+tea	6
+leaf	4
+photo	2
+josy	1
+took	1
+frank	1
+amaz	1
+pict	1
+pick	1
+ful	1
+resolv	1
+detail	1
+aston	1
+leaffrog	1

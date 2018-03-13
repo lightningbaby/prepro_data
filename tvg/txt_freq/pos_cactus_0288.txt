@@ -1,0 +1,17 @@
+trekn	2
+baby	4
+cact	4
+photo	5
+travel	2
+pak	1
+punjab	1
+mangl	1
+canon	2
+powershot	1
+pro1	1
+zoom	1
+len	1
+thi	1
+gallery	1
+titl	1
+cactusbaby	1

@@ -1,0 +1,12 @@
+mul	5
+deer	6
+mes	7
+verd	5
+photo	2
+wit	1
+spectacul	1
+sunset	1
+top	1
+herd	1
+graz	1
+verdem	1

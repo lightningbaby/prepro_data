@@ -1,0 +1,16 @@
+frog	2
+anim	1
+rul	1
+frogfrogfebru	1
+2008	1
+fil	1
+amphib	2
+liv	1
+swamp	1
+they	3
+eat	1
+bug	1
+strong	1
+leg	1
+say	1
+word	1

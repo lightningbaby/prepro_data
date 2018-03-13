@@ -1,0 +1,14 @@
+butterf	8
+illino	3
+insect	1
+bug	1
+americ	1
+viceroy	1
+frog	1
+click	1
+new	1
+window	1
+photo	1
+comput	1
+wallpap	1
+form	1

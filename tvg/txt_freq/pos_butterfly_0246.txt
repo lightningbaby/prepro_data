@@ -1,0 +1,14 @@
+black	4
+swallowtail	4
+butterf	10
+wee	3
+gard	1
+plant	1
+weed4	1
+gallery	1
+indexprev	1
+next	1
+photo	1
+courtesy	1
+barbar	1
+sand	1

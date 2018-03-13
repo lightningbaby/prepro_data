@@ -1,0 +1,16 @@
+bottlenos	7
+dolphin	7
+pict	3
+desktop	1
+wallpap	4
+fre	1
+download	1
+anim	1
+nat	2
+geograph	2
+photo	3
+inform	2
+fact	2
+get	1
+prep	1
+submerg	1

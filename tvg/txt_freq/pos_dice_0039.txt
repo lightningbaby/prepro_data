@@ -1,0 +1,16 @@
+fre	7
+gam	3
+clipart	8
+graph	3
+anim	7
+gif	4
+photo	3
+pict	3
+dart	4
+cricket	1
+target	1
+deal	1
+card	1
+dic	5
+cartoon	1
+hand	1

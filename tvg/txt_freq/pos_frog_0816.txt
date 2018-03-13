@@ -1,0 +1,16 @@
+photo	1
+peru	3
+red	4
+poison	4
+arrow	4
+frog	3
+frogperu	1
+sav	1
+canon	1
+nikon	1
+sony	1
+digit	1
+camera	1
+flash	1
+mem	1
+card	1

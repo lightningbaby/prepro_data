@@ -1,0 +1,15 @@
+city	1
+ven	1
+percors	1
+art	1
+access	1
+jewelry	1
+watch	1
+astuccio	3
+portagioch	3
+cas	3
+dic	3
+play	3
+card	3
+fedon	2
+1919	2

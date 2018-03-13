@@ -1,0 +1,12 @@
+pict	9
+cact	6
+fre	5
+freefoto	4
+com	3
+spain	1
+cordob	1
+stock	1
+photograph	1
+royal	1
+compict	1
+downloadlicenseprintssh	1

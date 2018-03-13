@@ -1,0 +1,12 @@
+picas	1
+web	1
+album	1
+mary	1
+srbsko	1
+beauty	1
+bug	1
+photo	1
+view	1
+load	1
+result	1
+found	1

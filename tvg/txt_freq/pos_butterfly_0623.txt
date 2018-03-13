@@ -1,0 +1,13 @@
+photo	1
+parid	3
+butterf	3
+butterflyparid	1
+sav	1
+canon	1
+nikon	1
+sony	1
+digit	1
+camera	1
+flash	1
+mem	1
+card	1

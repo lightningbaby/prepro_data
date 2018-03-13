@@ -1,0 +1,14 @@
+2008	2
+april	2
+wond	1
+lif	1
+frogtransp	1
+frog	3
+com	1
+inch-long	1
+glass	1
+nat	1
+venezuel	1
+categ	1
+amphib	1
+tag	1

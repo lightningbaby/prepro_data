@@ -1,0 +1,13 @@
+real	2
+dic	5
+illud	3
+opt	1
+pict	1
+look	2
+try	2
+determin	2
+stand	2
+lay	2
+flat	2
+illusionr	1
+seem	1

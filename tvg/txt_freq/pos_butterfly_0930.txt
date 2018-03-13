@@ -1,0 +1,13 @@
+skip	2
+butterf	2
+photo	2
+pablo	1
+yáñez	1
+pbas	1
+com	1
+maripos	1
+polill	1
+insect	1
+flow	1
+col	1
+virgin	1

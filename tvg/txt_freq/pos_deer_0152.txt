@@ -1,0 +1,11 @@
+deer	10
+fent	5
+net	6
+produc	1
+supply	1
+plast	1
+gard	1
+retail	1
+distribut	1
+mass	1
+merch	1

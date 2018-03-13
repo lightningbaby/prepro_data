@@ -1,0 +1,14 @@
+photo	1
+owl	3
+butterf	4
+print	3
+printowl	1
+sav	1
+canon	1
+nikon	1
+sony	1
+digit	1
+camera	1
+flash	1
+mem	1
+card	1

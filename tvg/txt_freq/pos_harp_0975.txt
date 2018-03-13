@@ -1,0 +1,12 @@
+picas	1
+web	1
+album	1
+scot	1
+patton	1
+san	1
+francisco	1
+day	1
+load	1
+harp	2
+find	1
+play	1

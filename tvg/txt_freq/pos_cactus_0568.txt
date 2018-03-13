@@ -1,0 +1,13 @@
+cact	2
+cav	2
+cavecact	1
+march	1
+2008	1
+nat	1
+conserv	1
+dol	1
+fal	1
+preserv	1
+photo	1
+bob	1
+harm	1

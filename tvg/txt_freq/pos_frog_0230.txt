@@ -1,0 +1,14 @@
+frog	4
+gard	2
+pond	3
+hertfordshir	2
+ran	2
+temporar	2
+frogfrog	1
+england	2
+1994	1
+new	1
+cre	1
+occupy	1
+amaz	1
+spee	1

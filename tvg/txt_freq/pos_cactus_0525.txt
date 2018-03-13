@@ -1,0 +1,11 @@
+cact	4
+photo	3
+dec	4
+mccullagh	4
+photograph	4
+many	2
+arub	3
+windward	2
+coast	2
+aruba-highlights	1
+pict	1

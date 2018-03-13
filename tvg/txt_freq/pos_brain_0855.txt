@@ -1,0 +1,17 @@
+brain	6
+clip	4
+art	4
+royal	1
+fre	3
+publ	1
+domain	1
+onlin	1
+peopl	3
+hum	4
+body	4
+part	4
+org	4
+brainpeopl	1
+clipart	1
+log	1
+tag	2

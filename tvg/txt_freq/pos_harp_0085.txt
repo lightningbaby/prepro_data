@@ -1,0 +1,14 @@
+teach	6
+studio	1
+kel	2
+walton	2
+harp	13
+lesson	8
+instruct	7
+austin	4
+priv	4
+individ	3
+mus	1
+cost	1
+stud	2
+method	1

@@ -1,0 +1,15 @@
+black-tailed	2
+deer	5
+moth	1
+faun	1
+typ	1
+nat	1
+island	1
+tend	1
+smal	1
+siz	1
+mainland	1
+counterpart	1
+photo	1
+terry	1
+domico	1

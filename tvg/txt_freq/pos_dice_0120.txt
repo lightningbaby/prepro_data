@@ -1,0 +1,11 @@
+dic	3
+lollipop	3
+whit	3
+pin	1
+colad	1
+sin	1
+city	1
+box	1
+bulk	1
+candy	2
+wholes	1

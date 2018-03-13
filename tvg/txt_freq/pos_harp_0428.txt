@@ -1,0 +1,17 @@
+khloella	1
+brateng	1
+celt	1
+harp	4
+celebr	1
+lev	1
+ped	1
+folk	1
+diff	1
+hom	1
+book	1
+inform	1
+outdo	1
+plan	1
+song	1
+sampl	1
+link	1

@@ -1,0 +1,15 @@
+multipart	1
+mix	1
+butterf	4
+photobutterf	1
+josh	1
+cart	1
+febru	1
+2001	1
+permalink	1
+post	1
+artwork	1
+photograph	1
+pavil	1
+broomfield	1
+colorado	1

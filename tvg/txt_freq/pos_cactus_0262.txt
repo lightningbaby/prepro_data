@@ -1,0 +1,12 @@
+the	3
+tallest	5
+cact	5
+island	3
+photo	2
+cal	1
+shorty	1
+200	1
+year	1
+old	1
+know	1
+islandth	2

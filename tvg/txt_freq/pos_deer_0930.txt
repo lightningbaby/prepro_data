@@ -1,0 +1,12 @@
+rocky	1
+mountain	2
+nat	1
+park	1
+mul	3
+deer	3
+snow	2
+jess	1
+spe	1
+flattop	1
+view	1
+wint	1

@@ -1,0 +1,12 @@
+fallow	5
+deer	5
+fact	4
+fil	2
+new	2
+forest	2
+read	1
+learn	1
+interest	1
+doe	1
+two	1
+stag	1

@@ -1,0 +1,15 @@
+shift	1
+baselin	1
+blog	1
+august	1
+2005	1
+arch	1
+dolphin-encounter	1
+jpg	1
+fre	1
+wil	1
+post	1
+randy	1
+olson	1
+com	1
+1576	1

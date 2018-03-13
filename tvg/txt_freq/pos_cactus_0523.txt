@@ -1,0 +1,11 @@
+cact	4
+photo	3
+dec	4
+mccullagh	4
+photograph	4
+windward	2
+sid	2
+island	2
+aruba-more	1
+arub	1
+pict	1

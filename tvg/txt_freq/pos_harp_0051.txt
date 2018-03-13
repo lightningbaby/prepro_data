@@ -1,0 +1,11 @@
+bri	2
+boru	2
+harp	3
+the	2
+wood	1
+337	1
+courtesy	1
+book	1
+day	1
+1994	1
+back	1

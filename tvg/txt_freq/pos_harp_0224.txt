@@ -1,0 +1,17 @@
+lap	3
+harp	6
+melody	3
+mus	1
+pack	1
+cov	1
+tun	3
+wrench	1
+song	1
+sheet	1
+key	1
+access	1
+electron	1
+chromatic	1
+easy	1
+play	1
+zith	1

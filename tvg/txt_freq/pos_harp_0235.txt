@@ -1,0 +1,15 @@
+lovingunivers	1
+com	1
+harp	2
+mus	1
+extrem	2
+rel	3
+makeov	2
+flirt	2
+lov	2
+coach	2
+lif	2
+irresist	2
+how	1
+secret	1
+help	1

@@ -1,0 +1,14 @@
+dolphin	4
+brown	2
+pel	4
+compet	2
+fish	2
+bird	3
+watch	1
+backyard	1
+habit	1
+the	1
+explod	1
+wat	1
+mov	1
+clos	1

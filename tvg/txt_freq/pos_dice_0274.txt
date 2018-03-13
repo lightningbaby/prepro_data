@@ -1,0 +1,16 @@
+dic	3
+bracelet	2
+black	2
+french	1
+bakelit	1
+red	1
+pip	1
+glass	1
+bead	1
+wholes	2
+sizepleas	2
+select	2
+sizesmal	2
+med	2
+larg	2
+xlarg	2

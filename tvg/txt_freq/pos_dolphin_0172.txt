@@ -1,0 +1,15 @@
+fre	3
+dolphin	6
+aqu	5
+review	3
+download	3
+screensaver	3
+nat	2
+underw	2
+scen	2
+must	1
+see	1
+phot	1
+swim	1
+across	1
+screen	1

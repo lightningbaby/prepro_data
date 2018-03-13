@@ -1,0 +1,12 @@
+pict	1
+perfect	1
+cact	4
+scen	3
+prevy	1
+main	1
+next	1
+desert	1
+storm	1
+cast	1
+light	1
+peor	1

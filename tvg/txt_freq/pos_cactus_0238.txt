@@ -1,0 +1,13 @@
+cact	3
+red	3
+flow	3
+americ	2
+arizon	1
+desert	1
+southwest	1
+nor	1
+tucson	1
+unit	1
+stat	1
+vert	1
+western	1

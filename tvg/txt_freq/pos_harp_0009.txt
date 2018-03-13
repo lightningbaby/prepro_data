@@ -1,0 +1,17 @@
+harp	6
+mus	4
+instru	4
+string	2
+instu	1
+gallery	3
+famy	2
+belong	1
+harp5	1
+indexprev	1
+next	1
+publ	1
+domain	1
+erik	1
+malinosk	1
+wikimed	1
+common	1

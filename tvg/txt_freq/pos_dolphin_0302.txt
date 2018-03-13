@@ -1,0 +1,14 @@
+mpr	1
+dolphin	3
+minnesot	1
+zoo	1
+pregn	2
+show	1
+hold	1
+year	1
+old	1
+bottlenos	1
+calf	1
+due	1
+next	1
+spring	1

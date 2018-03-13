@@ -1,0 +1,17 @@
+brain	6
+wareh	5
+advert	6
+hom	1
+off	1
+tackl	1
+drug	1
+chang	1
+liv	1
+watch	2
+frank	2
+tvcommunications	1
+campaign	1
+back	1
+download	1
+1757	1
+navig	1

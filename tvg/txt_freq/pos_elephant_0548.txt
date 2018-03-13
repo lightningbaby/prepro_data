@@ -1,0 +1,12 @@
+eleph	5
+riv	6
+cross	6
+samburu	6
+nat	6
+reserv	6
+keny	5
+photo	3
+host	1
+travelblog	1
+org	1
+kenyaeleph	1

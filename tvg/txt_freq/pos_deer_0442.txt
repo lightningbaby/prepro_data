@@ -1,0 +1,17 @@
+montan	7
+hunt	14
+outfit	4
+elk	3
+deer	3
+guid	2
+bear	2
+coug	1
+mountain	1
+lion	3
+serv	1
+wyom	1
+colorado	1
+new	1
+mexico	1
+californ	1
+idaho	1

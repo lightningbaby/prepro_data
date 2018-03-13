@@ -1,0 +1,12 @@
+butterf	10
+bush	3
+gard	1
+plant	1
+bush3	1
+gallery	1
+indexprev	1
+next	1
+photo	1
+courtesy	1
+barbar	1
+sand	1

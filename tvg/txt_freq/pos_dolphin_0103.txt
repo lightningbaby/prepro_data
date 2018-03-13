@@ -1,0 +1,16 @@
+dolphin	4
+discovery	3
+pict	2
+sea	4
+world	4
+san	3
+diego	3
+view	1
+show	2
+get	1
+chant	1
+gallery	1
+indexprev	1
+next	1
+2006	1
+int	1

@@ -1,0 +1,13 @@
+xlpctheremin	1
+com	1
+dic	2
+xlpc	2
+theremin	2
+keyword1	1
+keyword2	1
+keyword3	1
+describ	1
+goe	1
+click	1
+larg	1
+view	1

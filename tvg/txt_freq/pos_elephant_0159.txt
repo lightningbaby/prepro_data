@@ -1,0 +1,11 @@
+eleph	2
+pleas	1
+follow	1
+link	1
+left	1
+learn	1
+sri	1
+lank	1
+also	1
+nor	1
+americ	1

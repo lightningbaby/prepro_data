@@ -1,0 +1,16 @@
+ontario	4
+deer	7
+hunt	9
+troph	3
+whitetail	4
+camp	3
+narrow	3
+lodg	3
+northwestern	1
+canad	4
+housekeep	1
+cabin	1
+outfit	1
+rainy	1
+riv	1
+district	1

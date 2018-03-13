@@ -1,0 +1,14 @@
+deer	5
+wood	5
+wint	7
+ref	3
+photo	3
+snow	3
+scen	3
+art	1
+draw	1
+winter9	1
+gallery	1
+indexprev	1
+next	1
+starrpoint	1

@@ -1,0 +1,14 @@
+jam	2
+fahn	2
+photo	1
+eleph	4
+many	1
+work	1
+log	1
+camp	1
+unemploy	1
+mahout	1
+oft	1
+rely	1
+tour	1
+trad	1

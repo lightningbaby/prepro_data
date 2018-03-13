@@ -1,0 +1,11 @@
+liv	4
+butterf	6
+rais	4
+kit	4
+pavil	1
+gard	1
+fee	4
+caterpill	3
+rear	2
+paint	1
+lady	1

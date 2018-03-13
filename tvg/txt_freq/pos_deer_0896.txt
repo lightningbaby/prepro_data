@@ -1,0 +1,15 @@
+mount	4
+deer	4
+photo	3
+dec	4
+mccullagh	4
+photograph	4
+troph	2
+sertom	2
+club	2
+outdo	2
+expo	2
+sertoma-club-expo-mar02	1
+allentown	1
+pennsylvan	1
+pict	1

@@ -1,0 +1,15 @@
+the	2
+dic	4
+institut	3
+photo	1
+casino	1
+ray	1
+burst	1
+pastel	1
+col	1
+priv	2
+for	2
+memb	1
+sign	1
+hom	1
+contact	1

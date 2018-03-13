@@ -1,0 +1,11 @@
+whit	3
+tre	3
+frog	3
+the	1
+anim	1
+fil	1
+rang	1
+map	1
+new	1
+guine	1
+austral	1

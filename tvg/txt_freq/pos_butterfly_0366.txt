@@ -1,0 +1,16 @@
+butterf	2
+sunflow	2
+trick	1
+light	1
+mobl	6
+blog	3
+pict	1
+camer	1
+phon	3
+moblog	1
+photo	1
+cameraphon	1
+video	4
+pic	1
+clip	2
+photoblog	1

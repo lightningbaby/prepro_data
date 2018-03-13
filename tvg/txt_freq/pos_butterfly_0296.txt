@@ -1,0 +1,11 @@
+trekn	2
+tiny	4
+butterf	4
+photo	5
+travel	2
+taiw	1
+taipe	2
+thi	1
+gallery	1
+titl	1
+butterflytiny	1

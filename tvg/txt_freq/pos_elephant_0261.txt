@@ -1,0 +1,13 @@
+eleph	6
+wash	4
+photo	2
+scrubbing	1
+prep	1
+peraher	1
+seem	1
+lik	1
+hard	1
+work	1
+certain	1
+enjoy	1
+washingeleph	1

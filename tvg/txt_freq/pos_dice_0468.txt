@@ -1,0 +1,15 @@
+watch	1
+seat	1
+dic	3
+roy	1
+flush	1
+pok	1
+chip	1
+peep	2
+orang	1
+green	1
+bingo	1
+card	1
+artsy	1
+angel	1
+ladybug	1

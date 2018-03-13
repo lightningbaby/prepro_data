@@ -1,0 +1,13 @@
+hog	3
+deer	3
+pag	2
+escondido	1
+cae	1
+peik	1
+nat	1
+photograph	1
+hom	1
+back	1
+wildl	1
+gallery	1
+index	1

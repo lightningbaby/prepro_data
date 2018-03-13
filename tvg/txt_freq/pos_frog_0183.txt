@@ -1,0 +1,14 @@
+trekn	2
+gaudy	4
+leaf	5
+frog	4
+photo	5
+travel	2
+cost	1
+ric	1
+limon	1
+tortuguero	1
+thi	1
+gallery	1
+titl	1
+froggaudy	1

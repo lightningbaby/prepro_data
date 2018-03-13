@@ -1,0 +1,14 @@
+butterf	12
+the	4
+key	5
+west	5
+nat	5
+conserv	4
+pict	1
+conservatory11	1
+gallery	1
+indexprev	1
+next	1
+copyright	1
+kathy	1
+hagood	1

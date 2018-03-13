@@ -1,0 +1,17 @@
+picas	1
+web	1
+album	1
+senty	1
+key	2
+deer	2
+big	1
+pin	1
+load	1
+pair	1
+smal	1
+meadow	1
+near	1
+ixor	1
+driv	1
+pinewood	1
+lan	1

@@ -1,0 +1,16 @@
+weirdest	2
+hous	3
+seattl	2
+deer	4
+head	3
+prevy	1
+next	1
+back	1
+see	1
+kamal	2
+the	1
+escap	1
+steph	1
+photo	1
+dolphin-kingsley	1
+permalink	1

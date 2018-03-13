@@ -1,0 +1,15 @@
+dolphin	6
+follow	3
+wak	3
+boat	3
+shor	4
+cap	4
+may	4
+sea	2
+cre	3
+school	1
+send	1
+photo	1
+rely	1
+non-canine	1
+pet	1

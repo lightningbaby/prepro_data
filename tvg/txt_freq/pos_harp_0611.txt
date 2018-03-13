@@ -1,0 +1,11 @@
+man	2
+play	3
+harp	3
+art	1
+europ	1
+krakow	1
+men	1
+mus	1
+peopl	1
+poland	1
+vert	1

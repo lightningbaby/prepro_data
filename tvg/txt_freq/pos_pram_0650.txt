@@ -1,0 +1,17 @@
+zby-wal	2
+pram	8
+pushchair	3
+dol	6
+wózki	1
+dziecięc	1
+dla	1
+dziec	1
+gruszewn	1
+strap	1
+suspend	1
+revers	1
+handleb	1
+carrycot	1
+basket	1
+undernea	1
+seat	1

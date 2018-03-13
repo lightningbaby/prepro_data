@@ -1,0 +1,13 @@
+pram	3
+put	2
+squeez	2
+bus	3
+nat	2
+smh	1
+com	1
+get	1
+big	1
+sydney	1
+morn	1
+herald	1
+onlin	1

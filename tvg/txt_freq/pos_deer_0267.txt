@@ -1,0 +1,16 @@
+trekn	2
+wint	4
+deer	4
+photo	5
+travel	2
+canad	1
+ontario	1
+kingston	1
+nikon	1
+d70	1
+nikk	1
+400	1
+thi	1
+gallery	1
+titl	1
+deerwint	1

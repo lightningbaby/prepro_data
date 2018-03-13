@@ -1,0 +1,11 @@
+giant	6
+leaf	7
+frog	7
+pict	4
+text	3
+head	2
+the	1
+interest	1
+shap	1
+look	1
+amaz	1

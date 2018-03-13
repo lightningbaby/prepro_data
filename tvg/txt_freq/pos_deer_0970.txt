@@ -1,0 +1,16 @@
+picas	1
+web	1
+album	1
+amcnair	1
+som	1
+pict	1
+load	1
+thi	1
+deer	2
+fear	1
+lik	1
+see	1
+tak	1
+but	1
+dud	1
+mellow	1

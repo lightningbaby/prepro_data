@@ -1,0 +1,13 @@
+hous	2
+anim	2
+doe	3
+deer	6
+fem	3
+prevy	1
+next	1
+back	1
+backyard	1
+group	1
+com	1
+fee	1
+permalink	1

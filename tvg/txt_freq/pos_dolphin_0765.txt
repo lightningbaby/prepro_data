@@ -1,0 +1,15 @@
+dolphin	14
+watch	3
+boat	3
+algarv	4
+portug	2
+com	1
+pict	1
+swim	1
+inform	1
+wild	2
+pic	1
+behavio	1
+baby	1
+eco-tours	1
+photograph	1

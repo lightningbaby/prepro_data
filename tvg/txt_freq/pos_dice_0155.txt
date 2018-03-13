@@ -1,0 +1,14 @@
+gam	3
+dic	4
+templ	4
+thi	1
+feat	1
+coupl	1
+play	1
+the	1
+cre	1
+sourc	1
+prev	1
+pag	2
+hom	1
+next	1

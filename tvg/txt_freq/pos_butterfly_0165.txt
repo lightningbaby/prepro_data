@@ -1,0 +1,11 @@
+trekn	2
+trop	4
+butterf	4
+photo	5
+travel	2
+surinam	1
+brokopondo	1
+thi	1
+gallery	1
+titl	1
+butterflytrop	1

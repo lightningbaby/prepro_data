@@ -1,0 +1,14 @@
+monterey	3
+bay	3
+whal	8
+watch	3
+photo	5
+kil	5
+attack	5
+pac	4
+white-sided	4
+dolphin	5
+peggy	3
+stap	3
+photograph	1
+orc	1

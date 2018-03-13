@@ -1,0 +1,16 @@
+photo	8
+pinnawal	9
+eleph	7
+orph	6
+attract	2
+tripadv	2
+pict	4
+photograph	2
+foto	2
+check	1
+memb	1
+candid	1
+sri	1
+lank	1
+bath	1
+mor	1

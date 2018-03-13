@@ -1,0 +1,11 @@
+larg	1
+photo	2
+cact	2
+cactuspetalum	1
+adob	1
+stat	1
+hist	2
+park	1
+nat	1
+prick	1
+pear	1

@@ -1,0 +1,14 @@
+old	4
+hunstanton	3
+postcard	1
+pram	2
+beach	3
+hut	2
+1920	1
+the	1
+rock	1
+pool	1
+holiday	1
+mak	1
+look	1
+wond	1

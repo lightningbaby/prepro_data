@@ -1,0 +1,13 @@
+fact	6
+dolphin	11
+pac	1
+whit	2
+sid	2
+white-sided	1
+anim	2
+whal	2
+pict	2
+inform	1
+sea	2
+cre	2
+jump	2

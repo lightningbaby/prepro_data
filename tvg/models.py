@@ -102,7 +102,7 @@ class MLP(Model):
 
         self.optimizer = tf.train.AdamOptimizer(learning_rate=FLAGS.learning_rate)
 
-        self.build()
+        self.build()#test
 
     def _loss(self):
         # Weight decay loss
